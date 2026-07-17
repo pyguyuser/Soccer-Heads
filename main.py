@@ -4,7 +4,6 @@ import pymunk.pygame_util
 from core.physics import Physics
 from core.objs import Player,Ball,Ground
 
-
 def main():
 
     Bg_sprite_path = "assets/sprites/DefineSprite_280/1.png"
