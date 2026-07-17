@@ -1,0 +1,3 @@
+Two's Company
+--- RECORDSEPARATOR ---
+Play a 2 player match

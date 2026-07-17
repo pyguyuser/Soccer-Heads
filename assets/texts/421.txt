@@ -1,0 +1,1 @@
+Player with most goals after 2 minutes wins!

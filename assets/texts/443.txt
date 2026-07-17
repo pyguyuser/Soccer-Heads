@@ -1,0 +1,5 @@
+Gold - <10 Points Given Up
+--- RECORDSEPARATOR ---
+Silver - <20 Points Given Up
+--- RECORDSEPARATOR ---
+Bronze - <40 Points Given Up

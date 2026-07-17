@@ -1,0 +1,3 @@
+Player with most goals
+--- RECORDSEPARATOR ---
+after 2 minutes wins!

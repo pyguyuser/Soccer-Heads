@@ -1,0 +1,9 @@
+10 matches
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+Move with the arrow keys, jump with the up arrow, and kick with the space bar
+--- RECORDSEPARATOR ---
+ 
+--- RECORDSEPARATOR ---
+Hitting power-ups with the ball will affact the game in various ways:
